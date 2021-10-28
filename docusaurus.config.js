@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Open Sauced',
   tagline: 'Dinosaurs are cool',
-  url: 'https://github-craftwork.github.io/docs-template/',
+  url: 'https://github.com/millije/docs-template/',
   baseUrl: '/docs-template/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
